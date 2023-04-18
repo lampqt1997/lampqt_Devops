@@ -1,4 +1,5 @@
-https://app.circleci.com/pipelines/github/lampqt1997/lampqt_Devops/1/workflows/2bb0c0c5-4f05-452f-97dc-0fa5471a3a25/jobs/1
+[![lampqt1997](https://circleci.com/gh/kcemenike/operationalize-ml.svg?style=svg)](https://app.circleci.com/pipelines/github/lampqt1997/lampqt_Devops)
+
 ## Project Overview
 
 The Operationalize ML project contains a Machine Learning Microservice, built on **Scikit-Learn**. It contains a model that predicts house prices in Boston according to several features, such as average rooms in a home and data about highway access, teacher-to-pupil ratios, and so on. You can read more about the data, which was initially taken from Kaggle, on [the data source site](https://www.kaggle.com/c/boston-housing). 
